@@ -1,5 +1,5 @@
 import pygame
-import gameObjects
+from src import gameObjects
 import rendering
 
 

@@ -3,7 +3,7 @@ import numpy as np
 from scipy.spatial.transform import Rotation
 import pygame
 from screeninfo import get_monitors
-import gameObjects
+from src import gameObjects
 
 
 # Render the playfield on the display
